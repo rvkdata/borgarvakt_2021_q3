@@ -1,0 +1,385 @@
+---
+title: "Borgarvakt í velferðar-og atvinnumálum"
+subtitle: "Græna planið</br>Sóknaráætlun Reykjavíkurborgar til 2030"
+author: "ÁRSFJÓRÐUNGSSKÝRSLA – JÚLÍ TIL SEPTEMBER 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ['rvk.css']
+    nature:
+      ratio: '191:100'
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+# Inngangur
+
+Á fundi borgarráðs þann 26. mars 2020 voru samþykktar 13 tillögur sem snúa að aðgerðum til að bregðast við afleiðingum COVID-19 faraldursins. Ein af tillögunum laut að því að koma á fót borgarvakt í velferðar- og atvinnumálum til að vakta afleiðingar faraldursins á aðstæður borgarbúa og atvinnulífið. 
+
+Tillagan var svohljóðandi:  
+
+Tölulegum gögnum og staðreyndum um þróun aðstæðna hjá einstaklingum, fjölskyldum og atvinnulífi verður safnað á vettvangi Reykjavíkurborgar næstu mánuði og misseri til að leggja grunn að frekari tillögugerð og aðgerðum sem ýmist verður beint til borgarráðs, fagráða Reykjavíkurborgar, ríkis eða sameiginlegs vettvangs sveitarfélaga eða annarra aðila. Í samráði við hagsmunaaðila verður fylgst með lykilþáttum og áhrifum stöðunnar á atvinnulíf og samfélag, lífskjör og húsnæðismarkað með sérstakri áherslu á börn og menntun þeirra, barnafjölskyldur, fatlað fólk, eldra fólk, atvinnulausa og viðkvæma og útsetta hópa. 
+
+Undirbúningshópur skipaður fulltrúum fagsviða og skrifstofa miðlægrar stjórnsýslu vann að undirbúningi borgarvaktarinnar fram að hausti 2020 sem fól einkum í sér að skilgreina hvaða vísar það eru sem fylgjast þarf með til að vakta áhrif COVID-19 faraldursins á velferðar- og atvinnumál í Reykjavík.1 
+
+Ársfjórðungslega eru lagðar fram í borgarráði2 skýrslur borgarvaktarinnar sem unnar eru af gagnaþjónustu þjónustu- og nýsköpunarsviðs í samstarfi við önnur svið Reykjavíkurborgar.3 
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE , 
+                      dpi = 240)
+
+# devtools::source_gist("c83e078bf8c81b035e32c3fc0cf04ee8", 
+#                       filename = 'render_toc.R')
+
+library(knitr)
+library(glue)
+```
+
+```{r toc, echo=FALSE}
+# render_toc(filename = "borgarrad_jan_2021.Rmd")
+```
+
+---
+
+
+```{r}
+mynd_nr <- 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+```
+
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("/Users/hlynurh2309/wd/gagnathjonusta/borgarvakt/glaerur/myndir/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
