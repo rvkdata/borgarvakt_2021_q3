@@ -46,7 +46,7 @@ library(glue)
 ```{r}
 mynd_nr <- 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 ```
 
@@ -56,7 +56,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -67,7 +67,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -77,7 +77,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -87,7 +87,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -97,7 +97,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -107,7 +107,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -117,7 +117,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -127,7 +127,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -137,7 +137,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -147,7 +147,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -157,7 +157,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -167,7 +167,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -177,7 +177,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -187,7 +187,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -197,7 +197,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -207,7 +207,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -217,7 +217,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -227,7 +227,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -237,7 +237,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -247,7 +247,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -257,7 +257,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -267,7 +267,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -277,7 +277,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -287,7 +287,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -297,7 +297,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -307,7 +307,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -317,7 +317,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -327,7 +327,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -337,7 +337,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -347,7 +347,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -357,7 +357,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -367,7 +367,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
@@ -377,7 +377,7 @@ knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png"))
 ```{r}
 mynd_nr <- mynd_nr + 1
 
-knitr::include_graphics(here::here("docs", "img", glue("q3_mynd_{mynd_nr}.png")))
+knitr::include_graphics(here::here("img", glue("q3_mynd_{mynd_nr}.png")))
 
 
 ```
