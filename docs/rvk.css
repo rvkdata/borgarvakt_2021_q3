@@ -30,6 +30,30 @@ body { font-family: 'Esja', Arial, Helvetica, sans-serif }
   background-position: top 10px left 5px;
 }
 
+.remark-slide-content h1#inngangur + ul p{
+  width: 50%;
+}
+
+.remark-slide-content h1#inngangur + ul{
+  background-image: url(https://styles.reykjavik.is/assets/illustrations/velferd1.png);
+  background-repeat: no-repeat;
+  background-size: 45%;
+  background-position: bottom 100px right 15px;
+}
+
+.remark-slide-content h1#-ri-ji-rsfj-r-ungur-2021-q3- +ol {
+   -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+    column-count: 2;
+    column-gap: 20px;
+}
+
+.remark-slide-content div#atvinnuleysi + ul{
+  font-size: 24px;
+}
+
 .title-slide h1 {
   font-size: 72px;
   line-height: 90px;

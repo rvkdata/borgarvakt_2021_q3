@@ -1,0 +1,465 @@
+---
+title: "Borgarvakt í velferðar-og atvinnumálum"
+subtitle: "Græna planið</br>Sóknaráætlun Reykjavíkurborgar til 2030"
+author: "ÁRSFJÓRÐUNGSSKÝRSLA – JÚLÍ TIL SEPTEMBER 2021"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ['rvk.css']
+    nature:
+      ratio: '191:100'
+      highlightStyle: github
+      countIncrementalSlides: false
+---
+
+# Inngangur
+
+- Á fundi borgarráðs þann 26. mars 2020 voru samþykktar 13 tillögur sem snúa að aðgerðum til að bregðast við afleiðingum COVID-19 faraldursins
+
+- Ein af tillögunum laut að því að koma á fót borgarvakt í velferðar- og atvinnumálum til að vakta afleiðingar faraldursins á aðstæður borgarbúa og atvinnulífið
+
+- Undirbúningshópur skilgreindi hvaða vísar það eru sem fylgjast þarf með til að vakta áhrif COVID-19 faraldursins á velferðar- og atvinnumál í Reykjavík
+
+- Ársfjórðungslega er lögð fyrir borgarráð stöðuskýrslu þar sem farið er yfir stöðu á völdum borgarvísum auk þess sem mælaborð borgarvaktar er uppfært
+
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, 
+                      warning = FALSE , 
+                      dpi = 240)
+
+# devtools::source_gist("c83e078bf8c81b035e32c3fc0cf04ee8", 
+#                       filename = 'render_toc.R')
+
+library(knitr)
+library(glue)
+```
+
+```{r toc, echo=FALSE}
+# render_toc(filename = "borgarrad_jan_2021.Rmd")
+```
+
+---
+# Þriðji ársfjórðungur 2021 (Q3)
+
+1. Atvinnuleysi 
+
+2. Fjárhagsaðstoð 
+
+3. Umsóknir um skólaþjónustu 
+
+4. Útköll vegna heimilisofbeldis 
+
+5. Tilkynningar til barnaverndar 
+
+6. Biðlistar eftir félagslegum íbúðum 
+
+7. Þjónusta við fólk í heimahúsum	 
+
+8. Notkun frístundakorts 
+
+9. Útgefin byggingarleyfi og samþykkt byggingarmagn 
+
+10. Kröfur Reykjavíkurborgar í milliinnheimtu og löginnheimtu 
+
+11. Þróun útsvars 
+
+12. Heimsóknir á söfn og sundstaði 
+
+13. Vísitala leiguverðs á höfuðborgarsvæðinu 
+
+14. Vinnumarkaðsráðningar Atvinnu- og virknimiðlunar Reykjavíkurborgar 
+---
+
+# 1. Atvinnuleysi
+<div id = "atvinnuleysi"></div>
+- Í september sl. var atvinnuleysi 5,8% (4.668). Loks lægra en það varð við upphaf faraldursins, mars 2020, þegar það var 7,7%. Við lok þriðja ársfjórðungs voru **6,4% karla atvinnulausir** og **5,2% kvenna**.
+
+- Atvinnuleysi hefur nú minnkað samfellt, alla mánuði frá því atvinnuleysi náði hámarki í janúar á þessu ári, í 11,6%. 
+
+- Í október hélt atvinnuleysi svo áfram að minnka og stendur í 5,6%. Á nokkuð sambærilegum stað og síðustu mánuðina fyrir faraldur kórónaveiru á Íslandi - en í febrúar í fyrra var atvinnuleysið 5,4%. 
+- Í september voru færri atvinnulausir en í mars 2020 í öllum aldurshópum nema 60-69 ára, þar sem voru 449 atvinnulausir, samanborið við 427 í mars 2020.
+
+- Áætlað atvinnuleysi í október er: **19,9% í hópi fólks með pólskt ríkisfang** (25,4% í júlí), **16,4% í hópi fólks með erlent ríkisfang annað en pólskt** (20,3% í júlí), **3,6% í hópi fólks með íslenskt ríkisfang** (4,6% í júlí).  
+
+---
+
+
+```{r}
+mynd_nr <- 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+```
+
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
+
+```{r}
+mynd_nr <- mynd_nr + 1
+
+knitr::include_graphics(glue("img/q3_mynd_{mynd_nr}.png"))
+
+
+```
+---
