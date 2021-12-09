@@ -47,7 +47,7 @@ meta() %>%
     title = "Borgarvakt í velferðar-og atvinnumálum.",
     description = "Glærukynning. Ársfjórðungsskýrsla júlí-september",
     url = "https://rvkdata.github.io/borgarvakt_2021_q3/",
-    image = "https://rvkdata.github.io/borgarvakt_2021_q3/share-card.png",
+    image = "https://rvkdata.github.io/borgarvakt_2021_q3/social-card.png",
     image_alt = "Forsíða glærukynningar Borgarvaktar í velferðar- og atvinnumálum á þriðja ársfjórðungi 2021",
     og_type = "website",
     og_author = c("Þjónustu- og nýsköpunarsvið Reykjavíkurborgar", "Skrifstofa Gagnaþjónustu"),
